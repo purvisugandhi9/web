@@ -33,7 +33,7 @@ color: white;
  flex-direction: horizontal;
  justify-content: space-around;
      margin-bottom: 10;
-     margin-right: 20px;
+     margin-right: 0px;
 
 }
 li{
@@ -117,10 +117,12 @@ justify-content: center;
 	color: white;
 	font-size: 3em;
 	padding: 20px;
-	font-weight: 1;
+	margin-right:6em;
+content: justify;
+	font-weight: 5;
 	font-family: 'Raleway', sans-serif;
      order: 3;
-    s
+    
 }
 span{
 	font-style:italic;
@@ -151,4 +153,58 @@ span{
 }
 .aca{
 	background-image: url(mixed.jpg);
+	color: black;
+}
+#aa{
+		 font-family: 'Redressed', cursive;
+		 font-size: 7em;
+		 text-decoration: underline;
+		 text-align:left;
+}
+#edu1{
+	color: black;
+    margin-left: 5em;
+
+	
+}
+h4{
+		text-decoration: underline;
+
+font-size:6em;
+
+}
+#ol2{
+ color:black;
+ text-decoration: none;
+ list-style:  square;
+ font-size: 4em;
+ margin-left: 4em;
+
+
+}
+.container{
+	background-color: white;
+	font-size: 5em;
+	color: black;
+	margin: 15em;
+}
+#head{
+	color: steelblue;
+	font-size:5em ;
+	padding:  50px 50px;
+	text-align: center;
+	border:dotted black 1px;
+}
+.email{
+	font-size: 3em;
+	color: black;
+
+
+}
+.message{
+	font-size: 2em;
+	text-align: right;
+	color: steelblue;
+	padding-top: 250px;
+	padding-bottom: 100px;
 }
